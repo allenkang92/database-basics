@@ -16,3 +16,4 @@ CREATE INDEX idx_직원_부서_연봉 ON 직원(부서, 연봉);
 
 EXPLAIN QUERY PLAN
 SELECT * FROM 직원 WHERE 부서 = '개발부' AND 연봉 > 55000;
+
