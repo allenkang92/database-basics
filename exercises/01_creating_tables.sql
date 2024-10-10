@@ -1,3 +1,4 @@
+
 CREATE TABLE 학생 (
     학번 INTEGER PRIMARY KEY,
     이름 TEXT NOT NULL,

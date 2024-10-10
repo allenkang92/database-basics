@@ -1,3 +1,4 @@
+
 -- 테이블 생성
 CREATE TABLE 직원 (
     사원번호 INTEGER PRIMARY KEY,

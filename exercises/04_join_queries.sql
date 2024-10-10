@@ -1,4 +1,3 @@
--- SQL JOIN 실습
 
 -- 1. INNER JOIN 실행
 SELECT 학생.이름, 학과.학과명
